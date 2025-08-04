@@ -211,7 +211,7 @@ a {
   border-radius: 4px;
   padding: 3px 10px;
   font-size: 0.95rem;
-  color: #4ef37b;
+  color: #8d4ef3;
 }
 .event__desc {
   font-size: 1.1rem;
@@ -243,7 +243,7 @@ a {
   color: #fff;
 }
 .event__cta-btn {
-  background: #4ef37b;
+  background: #8d4ef3;
   color: #181c23;
   border: none;
   border-radius: 6px;
@@ -255,7 +255,7 @@ a {
   margin-top: 10px;
 }
 .event__cta-btn:hover {
-  background: #38c96b;
+  background: #5738c9;
 }
 .event__share {
   margin-top: 40px;
@@ -265,7 +265,7 @@ a {
   flex-wrap: wrap;
 }
 .event__share-label {
-  color: #4ef37b;
+  color: #724ef3;
   font-weight: 500;
 }
 .event__share-icons {
@@ -287,7 +287,7 @@ a {
   text-decoration: none;
 }
 .event__share-icon:hover {
-  background: #4ef37b;
+  background: #6c4ef3;
   color: #181c23;
 }
 .event__cta-likes {
@@ -669,7 +669,7 @@ a {
 }
 .add-event-form__select {
   background: #232733;
-  border: 2px solid #c2f34e;
+  border: 2px solid #724ef3;
   border-radius: 8px;
   color: #ffffff;
   padding: 16px 18px;
@@ -683,11 +683,11 @@ a {
   transition: border-color 0.2s, box-shadow 0.2s;
   box-shadow: 0 2px 12px #0002;
   scrollbar-width: thin;
-  scrollbar-color: #4ef37b #232733;
+  scrollbar-color: #7a4ef3 #232733;
 }
 
 .add-event-form__select:focus {
-  border-color: #38c96b;
+  border-color: #6b38c9;
   box-shadow: 0 0 0 2px #4ef37b55;
 }
 
@@ -1078,7 +1078,7 @@ a {
 }
 
 .event-details__separator {
-  color: #4ef37b;
+  color: #4e75f3;
   font-weight: bold;
   opacity: 0.7;
 }
@@ -1366,7 +1366,7 @@ a {
 }
 
 .admin-edit-user h1 {
-  color: #4ef37b;
+  color: #594ef3;
   font-size: 2rem;
   font-weight: 700;
   margin-bottom: 28px;
