@@ -51,11 +51,11 @@
 }
 
 .confirm-modal__btn--confirm {
-  background: linear-gradient(90deg, #4ef37b 0%, #38c96b 100%);
+  background: linear-gradient(90deg, #884ef3 0%, #4238c9 100%);
   color: #181c23;
 }
 .confirm-modal__btn--confirm:hover {
-  background: linear-gradient(90deg, #38c96b 0%, #4ef37b 100%);
+  background: linear-gradient(90deg, #6b38c9 0%, #5f4ef3 100%);
   color: #232733;
   transform: translateY(-2px) scale(1.04);
 }

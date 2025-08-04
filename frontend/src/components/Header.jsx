@@ -8,7 +8,7 @@ const Header = () => {
       <header className="header">
         <div className="header__logo">
           <a href="/" alt="Home Page">
-            Eventify
+            Egzas2025
           </a>
         </div>
 

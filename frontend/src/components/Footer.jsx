@@ -6,7 +6,7 @@ const Footer = () => {
       <footer className="footer">
         <div className="footer__container">
           <span className="footer__copyright">
-            &copy; 2025 <span className="footer__brand">Eventify</span>. All
+            &copy; 2025 <span className="footer__brand">Egzas2025</span>. All
             rights reserved.
           </span>
           <nav aria-label="Footer navigation" className="footer__nav">
